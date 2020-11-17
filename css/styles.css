@@ -202,6 +202,11 @@ video {
 
 .hero-button:active {
   background: rgba(0, 0, 0, 0.3);
+  color: white;
+}
+
+.hero-button a:visited {
+  color: white;
 }
 
 /* About Page CSS */
