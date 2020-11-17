@@ -5,6 +5,7 @@ html {
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
   height: 100%;
+  background-color: #142b17;
 }
 
 body {
@@ -210,7 +211,7 @@ video {
 
 /* About Page CSS */
 .about-page {
-  background-color: #575a5f;
+  background-color: #142b17;
   padding: 2rem 1rem 10rem 1rem;
   display: grid;
   grid-template-columns: 1fr;
@@ -218,7 +219,7 @@ video {
 }
 
 .about-nav {
-  background-color: #575a5f;
+  background-color: #142b17;
 }
 
 .about-text {
@@ -254,11 +255,11 @@ video {
 
 .gallery-page {
   padding: 0 1rem 10rem 1rem;
-  background-color: #575a5f;
+  background-color: #142b17;
 }
 
 .gallery-nav {
-  background-color: #575a5f;
+  background-color: #142b17;
 }
 
 .gallery-auto-fit {
@@ -325,10 +326,11 @@ video {
 .footer-copyright {
   text-align: center;
   padding-bottom: 6rem;
+  color: white;
 }
 
 .footer-social a {
-  color: black;
+  color: white;
   padding: 0 1rem;
 }
 
